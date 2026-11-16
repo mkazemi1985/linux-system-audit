@@ -1,0 +1,15 @@
+# Generated audit results
+exam_results/
+audit/
+
+# Diagnostic logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Local environment files
+.env
+.env.*
