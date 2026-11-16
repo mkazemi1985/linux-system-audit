@@ -25,7 +25,6 @@ The script collects system information, generates audit reports, creates a prote
 - Bash
 - Ubuntu Server 24.04 LTS
 - Linux command-line tools (`awk`, `sed`, `find`, `sort`, `cut`, `chmod`)
-- Git and GitHub
 
 ## Project Structure
 
@@ -41,7 +40,7 @@ system-audit/
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:mkazemi1985/linux-system-audit.git
 cd system-audit
 ```
 
