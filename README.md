@@ -40,8 +40,8 @@ system-audit/
 Clone the repository and enter the project directory:
 
 ```bash
-git clone git@github.com:mkazemi1985/linux-system-audit.git
-cd system-audit
+git clone https://github.com/mkazemi1985/linux-system-audit.git
+cd linux-system-audit
 ```
 
 Check the script syntax:
